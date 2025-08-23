@@ -1,6 +1,6 @@
 # 👋 **HELLO THERE**
 
-I’m **Omar (IOI-dot)** — a Computer Science undergraduate passionate about **Machine Learning & Deep Learning**.  
+I’m **Omar (IOI-dot)** — a Computer Engineering undergraduate passionate about **Machine Learning & Deep Learning**.  
 
 🎓 **Undergraduate Computer Science Student**  
 🧠 **Interested in AI, Computer Vision, and Data Science**  
