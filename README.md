@@ -41,7 +41,7 @@ I’m **Omar (IOI-dot)** — a Computer Science undergraduate passionate about *
 # 📫 **CONTACT**
 
 <p align="left">  
-<a href="www.linkedin.com/in/omarelhussein"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarelhussein/)]
 <a href="mailto:omarelhussein@aucegypt.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://github.com/IOI-dot?tab=followers"><img src="https://img.shields.io/github/followers/IOI-dot?label=Follow&style=for-the-badge"/></a>  
 </p>  
