@@ -11,16 +11,26 @@ I’m **Omar (IOI-dot)** — a Computer Engineering undergraduate passionate abo
 # 🚀 **PROJECTS I’VE BUILT**
 
 1- Emotion Recognition (CV) – Real-time predictions with ResNet and OpenCV.
+
 2- Text Classification & Sentiment Analysis (LLMS)– Custom Transformer & BERT-based models.
+
 3- Chatbot (LLMS, Hugging face) – GPT-2 fine-tuned on conversation datasets.
+
 4- DCGAN – Generative model for image synthesis with PyTorch.
+
 5- Hand Gesture Recognition – Real-time predictions using CNN + MediaPipe.
+
 6- Random Forest Classifier – Tabular dataset classification with feature importance plots.
+
 7- Face Recognition (CNNs) – Real-time face identification.
+
 8- Animal Classification (CNNs) – Multi-class image classification.
+
 9- Traffic Sign Recognition (CNNs) – Real-time traffic sign detection.
+
 10- Linear & Logistic Regression – Fundamental ML models implemented from scratch.
-11- K-Means & KNN – Clustering & classification implemented from scratch.
+
+11- K-Means & KNN – Clustering & classification.
 
 📌 All available here → [**Projects Repository**](https://github.com/IOI-dot/Projects) *(pinned)*  
 
