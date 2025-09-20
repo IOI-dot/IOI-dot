@@ -34,6 +34,10 @@ I’m **Omar (IOI-dot)** — a Computer Engineering undergraduate passionate abo
 
 12- Multi-Nominal Naive Bayes (NLP) - Email Detection 
 
+13- Encoder Transformer - Text Emotion classfication
+
+14- Decoder Transformer - Chatbot-like model
+
 📌 All available here → [**Projects Repository**](https://github.com/IOI-dot/Projects) *(pinned)*  
 
 ---
