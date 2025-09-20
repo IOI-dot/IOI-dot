@@ -16,7 +16,7 @@ I’m **Omar (IOI-dot)** — a Computer Engineering undergraduate passionate abo
 
 3- Chatbot (LLMS, Hugging face) – GPT-2 fine-tuned on conversation datasets.
 
-4- DCGAN – Generative model for image synthesis with PyTorch.
+4- DCGAN – Generative model for cat image synthesis with PyTorch.
 
 5- Hand Gesture Recognition – Real-time predictions using CNN + MediaPipe.
 
