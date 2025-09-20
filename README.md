@@ -32,6 +32,8 @@ I’m **Omar (IOI-dot)** — a Computer Engineering undergraduate passionate abo
 
 11- K-Means & KNN – Clustering & classification.
 
+12- Multi-Nominal Naive Bayes (NLP) - Email Detection 
+
 📌 All available here → [**Projects Repository**](https://github.com/IOI-dot/Projects) *(pinned)*  
 
 ---
